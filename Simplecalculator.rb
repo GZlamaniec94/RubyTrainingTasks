@@ -33,4 +33,4 @@ end
 
  final_number = calculating(num_1, num_2, operator)
 
-puts final_number
+puts final_number 
